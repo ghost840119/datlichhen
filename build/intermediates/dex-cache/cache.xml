@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_b7cfef527543bf72fa26a1ba02ef1267497e8a7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_ea5885b3252556a6b6bd72c7d59fc4392fe41bfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.6_2c9f2797547ce02cd949625ad62e06dfda34cb8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.6_28cceb86fd849dbe52c94352b84948fcd9d03bf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.6_2ebb6cdde9a442e872487c02acfcd073a4afe06a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ghost840119\.gradle\caches\modules-2\files-2.1\org.java-websocket\Java-WebSocket\1.3.0\db2658f013fb163de4a99274c2eb9e17efe535d2\Java-WebSocket-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\Java-WebSocket-1.3.0_72f3ec9d48dc39c10bf713299007f64be91ff60b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.6_8c0543ecc39e47ee37e2e9f2cf01460a7c3cd0ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.6_9af182ee1bd0c33da3c5b829f675ccabc6afcef1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_bf2201d8572c4160ff827c4ea4522660b683d547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Softwares2\PhanMemLapTrinh\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_6394d0a823645e517b6cb593d221e98d31a4d428.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_e67a17c4dc7035fb83c73b1b8ccf6eddd6c47828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ghost840119\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\engine.io-client\0.3.1\3ca9d0d53a27ecb88538ed874be417cfa827db5d\engine.io-client-0.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ca9d0d53a27ecb88538ed874be417cfa827db5d">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\engine.io-client-0.3.1_e43023cbdf4d8a53852f1b46c6891572501bb81d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.2.0_8810a9f81eb109928a4fbb3b8255f6a4b07715d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_e7ebe8654622bc9bb4a2860afa321e7a906bee11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.2.0_f89af87e8ec6b82d62406eb1c6c0012658aa4f90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b3f36e8614cc9696f3d101c28f3e9a16911955da">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\instant-run_6d99e7a8baed263e8a9f7f3534f63a1045b1bd5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.6_768751628a63178659bbe32207fbef15b5418046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.6_8c0543ecc39e47ee37e2e9f2cf01460a7c3cd0ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_ae1bd4018210ad17436a0fd2b4e8c233df365562.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ghost840119\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\socket.io-client\0.3.0\8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9\socket.io-client-0.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\socket.io-client-0.3.0_1653629cb65f935d076b6faedf26cfb8ef61da68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_87766d43dd2e484a3daa893fb32eae85dd02606a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_ed376f786ee11b8146330f594f1f9df7edaf5220.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.2.6_5a0919c67e548d946ea4b6c37ba12b1ca92cedf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.2.6_5371d53e953ca86dd0f7a2358a73aeb04f3905e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_b7cfef527543bf72fa26a1ba02ef1267497e8a7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.6_877053315de9d1fb55d3d904ac79dd52d4d34290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.6_28cceb86fd849dbe52c94352b84948fcd9d03bf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_0d2ce7ca19e9a80e2d3ed1fbfce24b55976327d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdb350b3524bc5a1aac17d9dce36695c17fb6cd7">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1ebe1c7d0d85d9fff3bffd93f060316c30b8fd4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_6e459b7fa571de58a00409debf10f3fe36efbfb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.2.6_2099f67fca0f2460d175432946cb1015f9d0ea07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.6_9af182ee1bd0c33da3c5b829f675ccabc6afcef1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.2.0_f89af87e8ec6b82d62406eb1c6c0012658aa4f90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_ae1bd4018210ad17436a0fd2b4e8c233df365562.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Softwares2\PhanMemLapTrinh\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_6394d0a823645e517b6cb593d221e98d31a4d428.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_bf2201d8572c4160ff827c4ea4522660b683d547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_e67a17c4dc7035fb83c73b1b8ccf6eddd6c47828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ghost840119\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\engine.io-client\0.3.1\3ca9d0d53a27ecb88538ed874be417cfa827db5d\engine.io-client-0.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ca9d0d53a27ecb88538ed874be417cfa827db5d">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\engine.io-client-0.3.1_e43023cbdf4d8a53852f1b46c6891572501bb81d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_ea5885b3252556a6b6bd72c7d59fc4392fe41bfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.6_768751628a63178659bbe32207fbef15b5418046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_e7ebe8654622bc9bb4a2860afa321e7a906bee11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_87766d43dd2e484a3daa893fb32eae85dd02606a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.2.0_8810a9f81eb109928a4fbb3b8255f6a4b07715d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.2.6_5a0919c67e548d946ea4b6c37ba12b1ca92cedf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.2.6_2099f67fca0f2460d175432946cb1015f9d0ea07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_6e459b7fa571de58a00409debf10f3fe36efbfb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ghost840119\.gradle\caches\modules-2\files-2.1\org.java-websocket\Java-WebSocket\1.3.0\db2658f013fb163de4a99274c2eb9e17efe535d2\Java-WebSocket-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\Java-WebSocket-1.3.0_72f3ec9d48dc39c10bf713299007f64be91ff60b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.6_2ebb6cdde9a442e872487c02acfcd073a4afe06a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_ed376f786ee11b8146330f594f1f9df7edaf5220.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.2.6_5371d53e953ca86dd0f7a2358a73aeb04f3905e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.6_877053315de9d1fb55d3d904ac79dd52d4d34290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_0d2ce7ca19e9a80e2d3ed1fbfce24b55976327d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ghost840119\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\socket.io-client\0.3.0\8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9\socket.io-client-0.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\socket.io-client-0.3.0_1653629cb65f935d076b6faedf26cfb8ef61da68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DoAn\DatLichHen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="D:\DoAn\DatLichHen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.6_2c9f2797547ce02cd949625ad62e06dfda34cb8c.jar" />
+    </item>
+
+</items>

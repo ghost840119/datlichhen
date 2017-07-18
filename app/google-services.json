@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "68178354021",
+    "firebase_url": "https://datlichhen-a0411.firebaseio.com",
+    "project_id": "datlichhen-a0411",
+    "storage_bucket": "datlichhen-a0411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68178354021:android:26df2751a66ec032",
+        "android_client_info": {
+          "package_name": "com.example.ghost840119.datlichhen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68178354021-2jm4o7vkkou97e0umjiagoco11uo31qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj-WfU5k1WcIi6VcWJ7anKmKn0pag_u-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
